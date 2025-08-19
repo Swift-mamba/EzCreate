@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "minecraft:mud"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "amount": 100,
+      "fluid": "minecraft:water"
+    }
+  ]
+}
