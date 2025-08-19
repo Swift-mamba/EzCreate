@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "create:zinc_nugget"
+    },
+    {
+      "chance": 0.3,
+      "item": "create:zinc_nugget"
+    }
+  ]
+}
