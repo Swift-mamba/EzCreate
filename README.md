@@ -1,2 +1,2 @@
 # EzCreate
-A DATAPACK that makes the create mod, and some of its addons easier to use.
+A DATAPACK for minecraft 1.20.1 that makes the create mod, and some of its addons easier to use.
